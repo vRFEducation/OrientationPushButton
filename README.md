@@ -84,7 +84,8 @@
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-    Buttons are one of the most useful widgets in Qt widget application worlds. Sometime we need to change the orientation of this widget and aligned it vertically. This project do this for us.
+<p>Buttons are one of the most useful widgets in Qt widget application worlds. Sometime we need to change the orientation of this widget and aligned it vertically. This project do this for us.</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
